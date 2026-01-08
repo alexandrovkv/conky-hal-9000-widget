@@ -65,7 +65,7 @@ function conky_main()
 
     local cx = conky_window.width / 2
     local cy = conky_window.height / 2
-    local radius = math.min(conky_window.width, conky_window.height) / 2
+    local radius = math.min(conky_window.width, conky_window.height) / 2 - 5
 
     draw_hal9000(cr, cx, cy, radius)
 
