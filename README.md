@@ -1,1 +1,3 @@
-# conky-hal-9000-widget
+# Conky HAL-9000 widget
+
+HAL-9000 CPU monitor.
